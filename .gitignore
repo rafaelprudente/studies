@@ -1,0 +1,12 @@
+# MAC OS
+.DS_Store
+
+# IntelliJ
+.idea
+
+# Maven
+.mvn
+target
+
+#Project Files
+Data
